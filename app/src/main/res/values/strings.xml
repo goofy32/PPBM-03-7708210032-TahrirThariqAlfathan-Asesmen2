@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Riwayat Dokter</string>
+
+    //pasta
+
+    <string name="Dokter1">
+\n- Menjadi pembicara utama dalam konferensi nasional mengenai inovasi dalam pengobatan penyakit kardiovaskular.
+\n- Mendapatkan penghargaan "Dokter Terbaik Tahun Ini" dari Asosiasi Kedokteran.
+</string>
+    <string name="Dokter1Desc">- Terampil dalam penanganan penyakit jantung dan hipertensi
+\n- Memiliki pengalaman dalam penelitian dan pengembangan program pencegahan penyakit masyarakat.
+</string>
+
+    //maggi
+
+    <string name="Dokter2">- Menerima penghargaan "Ahli Bedah Terkemuka" dari Asosiasi Bedah.
+\n- Terlibat dalam misi medis kemanusiaan di daerah terpencil.</string>
+
+    <string name="Dokter2desc">- Berpengalaman dalam penanganan kasus bedah darurat.
+\n- Ahli dalam bedah laparoskopi dan prosedur minimal invasif.</string>
+
+    //cake
+
+    <string name="Dokter3">- Memublikasikan artikel ilmiah di jurnal-jurnal terkemuka tentang inovasi dalam penanganan epilepsi.
+\n- Mendapatkan penghargaan "Kontributor Utama dalam Riset Neurologis" dari Asosiasi Neurologi.</string>
+    <string name="Dokter3Desc">- Fokus pada penanganan penyakit saraf seperti epilepsi dan gangguan neuromuskular.
+\n- Terlibat dalam penelitian terkini mengenai pengembangan terapi neurologis.
+</string>
+
+
+</resources>
